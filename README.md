@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-http-discussion-redirects.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-http-discussion-redirects) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-http-discussion-redirects).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-http-discussion-redirects/tree/archive/v0.1.2) · License: `MIT` · Flarum: `>=0.1.0-beta.13 <0.1.0-beta.14`
+**3** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-http-discussion-redirects/tree/archive/v0.1.2) · License: `MIT` · Flarum: `>=0.1.0-beta.13 <0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-08-18 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-http-discussion-redirects/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-11-08 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-http-discussion-redirects/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-04-10 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-http-discussion-redirects/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-http-discussion-redirects.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-http-discussion-redirects.json)
 
